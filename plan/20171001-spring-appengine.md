@@ -1,0 +1,33 @@
+- [ ] springBook
+	- [ ] springCore
+	- [ ] webLayer
+	- [ ] accessData
+	- [ ] webSocket
+	- [ ] oAuth2
+	- [ ] singlePage
+	- [ ] otherWebFrameworks
+- [ ] tipsGoogleCloud
+	- [ ] optimizeSpringFramework
+	- [ ] jpaFacets
+	- [ ] overview
+	- [ ] designScale
+	- [ ] index
+	- [ ] fantasm
+	- [ ] datastoreWrite
+	- [ ] storing
+	- [ ] dbErrors
+	- [ ] deferred
+	- [ ] xmpp
+	- [ ] polyModel
+	- [ ] contention
+	- [ ] bestMemcache
+	- [ ] effective
+	- [ ] sharding
+	- [ ] modelEntity
+	- [ ] updateSchema
+	- [ ] isolation
+	- [ ] cloudLogging
+	- [ ] platformConsole
+	- [ ] deadlineExceeded
+	- [ ] scheduledBackups
+
